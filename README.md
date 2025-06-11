@@ -13,8 +13,8 @@
         <li>🚀 Always learning. Always shipping.</li>
       </ul>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+    <td align="center">
+      <img src="https://github.com/amanpdesai/amanpdesai/blob/main/animation_500_kxa883sd.gif" width="260"/>
     </td>
   </tr>
 </table>
