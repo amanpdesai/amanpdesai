@@ -6,7 +6,7 @@
 I'm a curious engineer passionate about building systems that blend software intelligence with hardware acceleration. Currently diving deep into ML, OS internals, and FPGA-driven architectures — always exploring, always building.
 
 - Leading <img src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/acm.industry.png" width="18" /> [**ACM Industry**](https://acmindustry.org) @ UCSB — building real-world tech with real companies
-- <img src="https://github.com/amanpdesai/amanpdesai/blob/main/cpu.png" width="18" /> Undergraduate Computer Architecture Reasearcher @ UCSB Arch Lab
+- <img src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/cpu.png" width="18" /> Undergraduate Computer Architecture Reasearcher @ UCSB Arch Lab
 - 🤖 Exploring ML and FPGA acceleration for fun
 - 💻 Full-stack developer — React, Node.js, Python, and many more
 - 🚀 Always learning. Always developing. Always shipping.
