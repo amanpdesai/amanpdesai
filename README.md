@@ -98,7 +98,7 @@ I'm a curious engineer passionate about building systems that blend software int
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## My Stats
-<div align="center">
+<p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpdesai&layout=compact&show_icon=true&theme=algolia" alt="amanpdesai-langs"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=amanpdesai&layout=compact&show_icon=true&theme=algolia" alt="amanpdesai-stats"/>
 </div>
@@ -109,6 +109,13 @@ I'm a curious engineer passionate about building systems that blend software int
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=algolia&margin-w=4)
 
 ... and a snake eating my Contributions Graph
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<div align="center">
+  <picture>
+    <!-- Dark-mode version -->
+    <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light-mode version -->
+    <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
+    <!-- Fallback (light) -->
+    <img alt="Snake eating my contributions" src="output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
