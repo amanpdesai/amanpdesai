@@ -1,121 +1,61 @@
-<h1 align="center">Hi 👋, I'm Aman Desai</h1>
-<h3 align="center">Engineering high-performance systems across ML, OS, and hardware @ UCSB</h3>
+# Aman Desai
 
-<p><img align="right" src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+Research engineer focused on ML for EDA, hardware design, and hardware-facing software systems.
 
-I'm a curious engineer passionate about building systems that blend software intelligence with hardware acceleration. Currently diving deep into ML, OS internals, and FPGA-driven architectures — always exploring, always building.
+[Website](https://amandesai.vercel.app) / [Email](mailto:amanpdesai@gmail.com) / [LinkedIn](https://www.linkedin.com/in/amanpdesai/) / [GitHub](https://github.com/amanpdesai)
 
-- Leading <img src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/acm.industry.png" width="18" /> [**ACM Industry**](https://acmindustry.org) @ UCSB — building real-world tech with real companies
-- <img src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/cpu.png" width="18" /> Undergraduate Computer Architecture Reasearcher @ UCSB Arch Lab
-- 🤖 Exploring ML and FPGA acceleration for fun
-- 💻 Full-stack developer — React, Node.js, Python, and many more
-- 🚀 Always learning. Always developing. Always shipping.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/amanpdesa/" target="_blank">
-    <img src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/LinkedIn_icon.svg.png" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/amandesai04" target="_blank">
-    <img src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/Instagram_icon.png" alt="Instagram" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:amandesai04@gmail.com" target="_blank">
-    <img src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/gmail-icon-2020-0631.png" alt="Email" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://amandesai.vercel.app" target="_blank">
-    <img src="https://github.com/amanpdesai/amanpdesai/blob/main/assets/website-icon-18.png" alt="Website" height="40" width="40" />
-  </a>
-</p>
+## Current focus
 
-## Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Shell Script](https://img.shields.io/badge/Shell–Script-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I work on the software layer around hardware design: tools that inspect RTL, netlists,
+timing feedback, and implementation artifacts so design iteration is less blind.
+My current public interests sit at the intersection of:
 
-## Hardware Description Languages
-![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0066CC?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-4433AA?style=for-the-badge)
-![Yosys](https://img.shields.io/badge/Yosys-1A1A1A?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-0099CC?style=for-the-badge)
+| Area | What I am trying to make better |
+| --- | --- |
+| ML for EDA | Models and workflows that estimate design quality before expensive implementation loops. |
+| Hardware design analysis | Tooling that maps timing, critical paths, and implementation feedback back to source-level design intent. |
+| Hardware-facing software | Parsers, data pipelines, notebooks, and interfaces for reasoning about messy hardware artifacts. |
 
-## Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## Research and engineering
 
-## Web & UI Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+| Time | Role | Notes |
+| --- | --- | --- |
+| Nov 2025 - present | Hardware and ML Research Engineer, [ChipAgents](https://chipagents.ai) | Research engineering on ML-assisted EDA and hardware design workflows. Public discussion stays high level while the work is active. |
+| Apr 2024 - Feb 2026 | Computer Architecture Researcher, [UCSB Arch Lab](https://www.arch.cs.ucsb.edu) | Integrated accelerators as first-class OS citizens in an OpenPiton-based system; built accelerator wrappers and low-level C benchmarks; explored PPA estimation and critical-path mapping back to RTL using EQSAT-style techniques. |
+| Jun 2025 - Sep 2025 | Software Development Engineer Intern, [AWS CloudFormation](https://aws.amazon.com/cloudformation/) | Built a full-stack data processing pipeline for large regression test suites and reporting views for distributed test outputs. |
+| Sep 2024 - Nov 2024 | Software Engineer Intern, [Blockhouse](https://www.blockhouse.app) | Built dashboards and computation pipelines for per-company profit margins against investment policy baselines. |
+| Dec 2024 - 2025 | President and Founder, [ACM Industry](https://industry.ucsbacm.com) | Connected UCSB students with companies through scoped engineering projects. |
 
-## Databases & APIs
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude--AI-000000?style=for-the-badge)
-![Gemini AI](https://img.shields.io/badge/Gemini--AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![ScraperAPI](https://img.shields.io/badge/ScraperAPI-6C757D?style=for-the-badge)
+## Selected projects
 
-## Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge)
+| Project | Stack | Summary |
+| --- | --- | --- |
+| [MIPS ISA Emulator](https://github.com/amanpdesai/spimulator) | C++, MIPS | Small instruction-set simulator with memory management and executable MIPS program support. |
+| [3D Multi-Species Boid Simulation](https://github.com/amanpdesai/Desai_Aman-130H) | C++, OpenGL, spatial audio | Real-time flocking simulation with per-species parameters and spatialized audio tied to flock behavior. |
+| [ReSign](https://github.com/randamit123/diamondhacks-frontend/tree/main) | Python, TensorFlow, React | Webcam-input sign-language classifier built at DiamondHacks 2024. |
+| MedKnight | AR, AI, healthcare | Augmented-reality medical assistant; winner at CalHacks 11.0. |
+| Fluid Music Transitions | Python, TensorFlow, PyGame | ML-driven note prediction and rhythmic transitions in a small game environment. |
 
-## Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+## Working notes
 
-## My Stats
+- I prefer small, inspectable systems over over-presented demos.
+- I am currently reading around ML for EDA, design automation, and quantitative computer architecture.
+- I use this profile as a compact index of public work; longer notes and project writeups live in the personal site repo.
+
+## Tooling I reach for
+
+| Systems | ML and data | Web and interfaces | Hardware and EDA |
+| --- | --- | --- | --- |
+| C, C++, Python, Linux | PyTorch, TensorFlow, NumPy, pandas | TypeScript, React, Next.js | Verilog/SystemVerilog, OpenPiton, Yosys, OpenSTA, OpenROAD |
+
+---
+
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpdesai&layout=compact&show_icon=true&theme=algolia" alt="amanpdesai-langs"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=amanpdesai&layout=compact&show_icon=true&theme=algolia" alt="amanpdesai-stats"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=amanpdesai&theme=algolia&background=0d1117&hide_border=true" alt="amanpdesai-streak"/>
-</div>
-
-![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=algolia&margin-w=4)
-
-... and a snake eating my Contributions Graph
-<div align="center">
   <picture>
-    <!-- Dark-mode version -->
     <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
-    <!-- Light-mode version -->
     <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
-    <!-- Fallback (light) -->
-    <img alt="Snake eating my contributions" src="output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution activity" src="output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
